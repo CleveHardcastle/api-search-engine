@@ -1,0 +1,23 @@
+.input-group {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+}
+
+.card {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  width: 50%;
+}
+
+header {
+  position: absolute;
+  left: 40%;
+  top: 10%;
+}
+
+p {
+  font-size: 25px;
+}
