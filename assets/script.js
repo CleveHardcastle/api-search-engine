@@ -1,4 +1,4 @@
-var requestUrl = "https://www.omdbapi.com/?&apikey=e2499fec&t=";
+var requestUrl = "http://www.omdbapi.com/?&apikey=e2499fec&t=";
 var button = document.querySelector(".btn");
 var cardText = document.querySelector(".card-body");
 var searchText = document.querySelector(".form-control");
